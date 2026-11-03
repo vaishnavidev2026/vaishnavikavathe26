@@ -1,160 +1,97 @@
-# vaishnavikavathe26
+#vaishnavikavathe26
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling" width="100%" alt="Header banner"/>
+<!-- HERO -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=false&width=850&height=90&lines=VAISHNAVI+KAVATHE" alt="Vaishnavi Kavathe"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=VAISHNAVI%20KAVATHE&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend%20%7C%20Cloud%20%26%20DevOps&descAlignY=60&descSize=17&animation=fadeIn&color=0:050816,45:123B70,100:00B4D8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=E2F3FF&center=true&vCenter=true&width=850&height=55&lines=Aspiring+Java+Full+Stack+Developer;Building+Applications+with+Java+%26+Spring+Boot;Frontend+Development+with+Angular;Exploring+AWS+%26+DevOps;Learning+DSA+%26+Problem+Solving" alt="Animated introduction"/>
+<a href="https://readme-typing-svg.demolab.com"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+profile!;Building+with+Java+%26+Spring+Boot;Creating+responsive+web+experiences;Learning+DSA%2C+AWS+%26+DevOps;Turning+ideas+into+working+applications" alt="Typing introduction" /> </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-JAVA%20FULL%20STACK%20DEVELOPER-0284C7?style=for-the-badge&labelColor=020617" alt="Role"/>
-<img src="https://img.shields.io/badge/BASED%20IN-PUNE%2C%20INDIA-0284C7?style=for-the-badge&labelColor=020617" alt="Location"/>
-<img src="https://img.shields.io/badge/FOCUS-JAVA%20%C2%B7%20SPRING%20BOOT%20%C2%B7%20ANGULAR-0284C7?style=for-the-badge&labelColor=020617" alt="Focus"/>
+<a href="https://www.linkedin.com/in/vaishnavi-kavathe-b29295432/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kavathevaishnavi15@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/vaishnavikavathe26"><img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/vaishnavi-kavathe-b29295432/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:kavathevaishnavi15@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/vaishnavikavathe26"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=vaishnavikavathe26&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=vaishnavikavathe26&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
+✨ About Me
+<img align="right" width="290" src="https://github-readme-stats.vercel.app/api?username=vaishnavikavathe26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E6EDF3&rank_icon=github" />
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
-</div>
+Hi! I'm Vaishnavi Hanmant Kavathe, a Computer Science and Engineering graduate-in-progress from Maharashtra, India, passionate about developing useful and user-friendly software.
 
-<table>
-<tr>
-<td width="58%" valign="top">
+☕ Building backend applications with Java and Spring Boot
 
-Hello, I'm Vaishnavi 👋
+🌐 Creating web interfaces using HTML, CSS, JavaScript and Angular
 
-I am an aspiring Java Full Stack Developer with a foundation in Java, object-oriented programming, Spring Boot, REST APIs, SQL, and frontend development.
+🗄️ Working with relational databases such as MySQL and PostgreSQL
 
-I enjoy building practical applications, learning backend development, and improving my problem-solving skills through Data Structures and Algorithms.
+🔌 Developing and testing REST APIs
 
-☕ Backend development with Java and Spring Boot
+☁️ Exploring AWS, Linux and DevOps tools
 
-🌐 Frontend development with HTML, CSS, JavaScript, and Angular
+🧠 Strengthening problem-solving skills through Data Structures & Algorithms
 
-🗄️ Database management with MySQL and PostgreSQL
-
-🔗 API development and testing with REST APIs and Postman
-
-☁️ Exploring cloud and DevOps tools such as AWS, Linux, Git, and Jenkins
-
-🧩 Practicing Data Structures and Algorithms
-
-</td>
-<td width="42%" valign="top">
-
-$ whoami
-vaishnavi-kavathe
-
-$ cat profile.yml
-role:       Java Full Stack Developer
-location:   Pune, Maharashtra, India
-education:  B.Tech - Computer Science
-core:       [Java, Spring Boot, Angular,
-             Hibernate, SQL]
-tools:      [Git, GitHub, Postman,
-             AWS, Jenkins, Maven]
-focus:      [Full Stack Development,
-             DSA, Cloud & DevOps]
-
-$ echo $STATUS
-open_to_opportunities
-
-</td>
-</tr>
-</table>
-
-Open to opportunities for fresher Java Developer, Java Backend Developer, and Java Full Stack Developer roles. Always interested in learning, collaborating, and building useful software.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=TECH+ARSENAL" alt="Technology arsenal"/>
-</div>
+<br clear="right"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,angular,mysql,postgres,git,github,aws,linux,jenkins,maven,docker,eclipse,idea&theme=dark&perline=9" alt="Technology skills"/>
-
-<br/><br/>
-
-Domain
-
-Technologies
-
-Programming Languages
-
-Java, C, C++, JavaScript, SQL
-
-Java & Backend
-
-Core Java, Advanced Java, OOP, Collections, Multithreading, Spring Boot, Hibernate, JDBC, REST APIs
-
-Frontend
-
-HTML, CSS, JavaScript, Angular
-
-Databases
-
-MySQL, PostgreSQL, Oracle
-
-Cloud & DevOps
-
-AWS, Linux, Jenkins, Maven, Docker
-
-Developer Tools
-
-Eclipse, IntelliJ IDEA, Git, GitHub, Postman, SonarQube
-
+🎯 Current Focus	💼 Career Interest	📍 Location
+Java Full Stack & DSA	Fresher Developer Roles	Pune, Maharashtra, India
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
-
+🧰 Tech Stack
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=FEATURED+PROJECTS" alt="Featured projects"/>
+
+Programming & Backend
+<img src="https://skillicons.dev/icons?i=java,c,cpp,spring,hibernate,maven" />
+
+Frontend & Database
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,react,mysql,postgres" />
+
+Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,linux,jenkins,docker,git,github,postman,eclipse,idea" />
+
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details> <summary><b>📚 Explore my technical skills</b></summary> <br/>
+
+Area	Skills
+Languages	Java, C, C++, JavaScript, SQL
+Java & Backend	Core Java, Advanced Java, OOP, Collections, Multithreading, Exception Handling, Spring Boot, Hibernate, JDBC, REST APIs
+Frontend	HTML, CSS, JavaScript, Angular
+Databases	MySQL, PostgreSQL, Oracle
+Cloud & DevOps	AWS, Linux, Jenkins, Maven, Docker
+Tools	Eclipse, IntelliJ IDEA, Git, GitHub, Postman, SonarQube
+</details>
+
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
 
 🏙️ CivicFlow
-
 Smart Civic Issue Reporting & Resolution Platform
 
-A Java full-stack project concept for reporting and tracking civic issues such as potholes, garbage, streetlights, and water leakage.
+A platform concept for reporting and tracking civic problems such as potholes, garbage, streetlights and water leakage.
 
-Highlights
+Issue registration and tracking APIs
 
-REST APIs for issue registration and tracking
+Department and staff assignment workflow
 
-Issue assignment and status updates
+Status updates and resolution tracking
 
-Department and staff workflow
+Citizen confirmation and closure flow
 
-Resolution tracking and citizen confirmation
+Java Spring Boot PostgreSQL Maven REST APIs
 
-Technologies: Java, Spring Boot, PostgreSQL, Maven, REST APIs
+</td> <td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
-
-💰 Smart Expense Tracker
-
-A web application concept for managing personal expenses, budgets, and transactions.
-
-Highlights
+💸 Smart Expense Tracker
+A web application concept to manage personal expenses, budgets and transactions.
 
 Expense and transaction management
 
@@ -164,18 +101,12 @@ JWT-based authentication
 
 Dashboard and spending insights
 
-Technologies: React, Node.js, Express, PostgreSQL, Prisma, JWT
+React Node.js Express PostgreSQL Prisma JWT
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td> </tr> <tr> <td width="50%" valign="top">
 
 🌱 Carbon Footprint Tracker
-
 An application for calculating and tracking users' carbon footprint.
-
-Highlights
 
 Carbon footprint data management
 
@@ -185,104 +116,86 @@ User authentication
 
 Database integration
 
-Technologies: Java, Spring Boot, Angular, MySQL, JWT
+Java Spring Boot Angular MySQL JWT
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
 
-🚪 Face Recognition-Based Door Access System
-
+🔐 Face Recognition-Based Door Access System
 A face-recognition-based access control project.
-
-Highlights
 
 Face detection and recognition
 
-Access control workflow
+Access-control workflow
 
-Hardware integration concept
+Raspberry Pi hardware integration
 
 Database-backed application
 
-Technologies: Java, OpenCV, Spring Boot, MySQL, Raspberry Pi
+Java OpenCV Spring Boot MySQL Raspberry Pi
 
-</td>
-</tr>
-</table>
+</td> </tr> </table>
 
+<div align="center"> <a href="https://github.com/vaishnavikavathe26?tab=repositories"> <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-0EA5E9?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+
+🎓 Education & Experience
+<table> <tr> <td width="50%" valign="top">
+
+🎓 Education
+B.Tech — Computer Science & Engineering
+Shri Tuljabhavani College of Engineering, Tuljapur
+2022 – 2026
+
+CGPA: 8.91
+
+</td> <td width="50%" valign="top">
+
+💻 Internship
+Full Stack Development Intern / Trainee
+Symbiosis Skills and Professional University, Pune
+2025
+
+Worked with HTML, CSS and JavaScript
+
+Developed responsive web pages
+
+Practiced testing and debugging
+
+</td> </tr> </table>
+
+📊 GitHub Analytics
 <div align="center">
-<a href="https://github.com/vaishnavikavathe26?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories_→-0284C7?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Explore repositories"/></a>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+ANALYTICS" alt="GitHub analytics"/>
-</div>
-
-<div align="center">
-
-<a href="https://github.com/vaishnavikavathe26">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vaishnavikavathe26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/vaishnavikavathe26">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavikavathe26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</a>
+<a href="https://github.com/vaishnavikavathe26"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=vaishnavikavathe26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E6EDF3&rank_icon=github" /> </a> <a href="https://github.com/vaishnavikavathe26"> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavikavathe26&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3&langs_count=8" /> </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=vaishnavikavathe26&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+GRAPH" alt="Contribution graph"/>
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavikavathe26&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="Contribution graph"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CURRENTLY+LEARNING" alt="Currently learning"/>
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-Advanced%20Concepts-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-2563EB?style=for-the-badge" alt="DSA"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Development-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" alt=""/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=LET'S+CONNECT" alt="Let's connect"/>
-</div>
-
-<div align="center">
-
-Interested in Java development, backend engineering, and building useful applications? Let's connect.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/vaishnavi-kavathe-b29295432/"><img src="https://img.shields.io/badge/LinkedIn-Vaishnavi_Kavathe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:kavathevaishnavi15@gmail.com"><img src="https://img.shields.io/badge/Email-kavathevaishnavi15%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/vaishnavikavathe26"><img src="https://img.shields.io/badge/GitHub-vaishnavikavathe26-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img width="70%" src="https://streak-stats.demolab.com?user=vaishnavikavathe26&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=E6EDF3&dates=9CA3AF" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Learn.+Build.+Improve.+Repeat." alt="Learn. Build. Improve. Repeat."/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavikavathe26&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00C6FF,50:12306B,100:020617" width="100%" alt="Footer banner"/>
+</div>
+
+🌱 Currently Learning
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-Backend%20Development-orange?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/DSA-Problem%20Solving-2563EB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Spring%20Boot-REST%20APIs-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+
+</div>
+
+🤝 Let's Connect
+<div align="center">
+
+I'm interested in Java Developer, Java Backend Developer and Java Full Stack Developer opportunities. I'm always happy to connect, learn and collaborate on meaningful projects.
+
+<a href="mailto:kavathevaishnavi15@gmail.com"><img src="https://img.shields.io/badge/EMAIL-kavathevaishnavi15%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vaishnavi-kavathe-b29295432/"><img src="https://img.shields.io/badge/LINKEDIN-Vaishnavi%20Kavathe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/vaishnavikavathe26"><img src="https://img.shields.io/badge/GITHUB-vaishnavikavathe26-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+💙 Learn • Build • Improve • Repeat
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00B4D8,50:123B70,100:050816" />
 
 </div>
